@@ -1,0 +1,14 @@
+langchain
+chromadb
+openai
+tiktoken 
+beautifulsoup4 
+requests
+ipykernel
+langchain-ollama
+langchain-community
+langchain-groq
+sentence-transformers
+langchain-core
+streamlit
+
